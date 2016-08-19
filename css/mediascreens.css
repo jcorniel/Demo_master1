@@ -1,0 +1,21 @@
+@media screen and (min-width: 480px) {
+
+  #primary {
+    width: 160px;
+    float: left;
+  }
+
+  #secondary {
+    width: 150px;
+    float: right;
+  }
+.profile-photo {
+  float: left;
+  margin: 0 5% 80px 0;
+}
+
+}
+@media screen and (min-width: 660px) {
+
+  
+}
